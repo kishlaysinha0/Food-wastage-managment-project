@@ -1,0 +1,48 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-image:url('https://i.ytimg.com/vi/5_apwQgFqzc/maxresdefault.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.kisu2{
+    padding-bottom
+}
+.kishu{
+    color: #9ffd9f;
+    font-size: 40px;
+    font-weight: 200px;
+    font-style:normal;
+    padding-left: 8px;
+}
+.kishu:hover{
+    color:#127712;
+    transition-duration: 2s;
+
+}
+.kishu:hover span {
+    color:#127712;
+    transition-duration: 1s;
+
+}
+a{
+    color:#fff;
+    background-color: #000;
+    border-radius: px;
+    font-size: 15px;
+    font-weight:150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border:3px solid #000;
+    border-radius:20px;
+    padding:5px;
+    margin:10px;
+    text-decoration:none;
+    float:right;
+}
+a:hover{
+    color:#9ffd9f;
+    padding: 10px;
+    border-radius: 10px;
+    transition-duration:0s;
+}

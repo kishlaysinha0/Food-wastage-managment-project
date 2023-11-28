@@ -1,0 +1,429 @@
+
+.edit{
+    color:#fff;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 20px;
+    margin:50px;
+    text-decoration: none;
+    
+}
+.edit:hover{
+    color:cadetblue;
+    transition: 1s;
+}
+.row{
+    position: relative;
+    width:500px;
+    margin:0 auto;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #888;
+    filter:grayscale();
+}
+.left{
+    margin-top: 35px;
+}
+.joining-text{
+    color: #8b0000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+.about{
+    color: #8b0000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 120px;
+    padding-right: 100px;
+}
+.joining-text:hover{
+    color:#0000ff;
+    transition: 1s;
+}
+.about:hover{
+    color:#0000ff;
+    transition: 1s;
+}
+
+.mainh{
+      padding-left:140px;
+      padding-right:120px;
+}
+.main2{
+    padding-left:120px;
+    padding-right:120px;
+    padding-bottom:20px;
+    font-size: 24px;
+    font-weight:bold;
+    /* padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 20px; */
+}
+.secondpara{
+    color:#00008B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 80px;
+    margin:0 auto;
+}
+.secondparastart{
+    color:#000;
+    font-size: 26px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bold;
+    padding-left: 400px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+.secondparu{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+.secondparuhai{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+.secondhihai{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+.hfirstp{
+    font-size: 26px;
+    color:rgb(32, 149, 226)
+}
+.hefirst{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.secondp{
+    padding-top:5px;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.thridp{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-top:1px;
+    padding-left: 130px;
+    padding-right: 100px;
+}
+.hsecondp{
+    font-size: 26px;
+    color:rgb(5, 171, 248);
+    padding-top:1px;
+}
+.fivthp{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:5px;
+}
+.hthirdp{
+    font-size: 26px;
+    color:rgb(8, 199, 247)0, 255, 255);
+    padding:
+}
+.hfourthp{
+    font-size: 26px;
+    color:rgb(0, 60, 255)
+}
+.sixthp{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+.doit{
+    padding-top:10px;
+    padding-left:550px;
+}
+.lol{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.secondparai{
+    color:#00008B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 80px;
+    margin:0 auto;
+}
+.joy{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.kio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.jio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.mio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.dio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.sugu{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.gio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.nio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.lio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.llio{
+    color:#00008B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 80px;
+    margin:0 auto;
+}
+.sammy{
+    padding-left:120px;
+    padding-top:30px; 
+}
+.cioo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.mio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.pio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.xio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.zio{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.rio{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.pou{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.xoi{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.voi{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.joyo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.aio{
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.op{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.loyo{
+    color:#00008B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 80px;
+    margin:0 auto;
+}
+.zoo{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.lolii{
+    padding-left: 80px;
+    padding-top: 20px;
+}
+.noo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.lopy{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+}
+.cop{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.ww{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.loliiy{
+    width:300px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.uu{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
+.oo{
+    color:#00008B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    width: 500px;
+    padding-left: 120px;
+    padding-top: 80px;
+    margin:0 auto;
+}
+.kk{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:26px;
+    color:#000;
+    padding-left: 140px;
+
+}
+.pp{
+    color:#000;
+    font-size: 24px;
+    font-weight:bold;
+    padding-left: 130px;
+    padding-right: 100px;
+    padding-top:0px;
+}
